@@ -1,5 +1,5 @@
 # ServerCraft
-A interactive minecraft server creator written in python 
+A minecraft server creator written in python 
 (only works on linux as of now)
 
 ## Requirements
