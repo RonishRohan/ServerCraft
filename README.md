@@ -1,3 +1,8 @@
+
+# YEAH THIS DOES NOT WORK ANYMORE
+
+
+
 # ServerCraft
 A minecraft server creator written in python 
 (only works on linux as of now)
